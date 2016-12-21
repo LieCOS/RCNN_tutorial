@@ -1,0 +1,6 @@
+train/*
+test/*
+Tutorial_RCNN/*
+Tutorial_RCNN_small/*
+eeg_train.npy
+eeg_test.npy
